@@ -42,7 +42,7 @@ We believe every child should feel empowered to explore math as more than equati
 
 ## 👥 Meet the Team
 
-Created by the Spring 2025 COMP-49X Capstone team at the **University of San Diego**:
+Created by the Spring 2025 COMP-492 Capstone team at the **University of San Diego**:
 
 - Zachary Letcher
 - Aditya Prakash
