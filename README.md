@@ -44,7 +44,7 @@ We believe every child should feel empowered to explore math as more than equati
 
 Created by the Spring 2025 COMP-49X Capstone team at the **University of San Diego**:
 
-- Zachary Letcher (Lead Developer)
+- Zachary Letcher
 - Aditya Prakash
 - Emmett DeBruin
 - Noah Huang
