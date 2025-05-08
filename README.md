@@ -61,7 +61,7 @@ Created by the Spring 2025 COMP-49X Capstone team at the **University of San Die
 ## 📁 Supporting Files
 
 - [📄 View Project Report (PDF)](https://github.com/zletcher/mathart-feature-nomination/raw/main/MathArtReport.pdf)
-- ![App Screenshot](https://github.com/zletcher/mathart-information/raw/main/AppArt.png)
+- ![App Screenshot](https://github.com/zletcher/mathart-feature-nomination/raw/main/AppArt.png)
 
 
 ---
