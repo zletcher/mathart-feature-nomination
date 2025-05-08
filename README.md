@@ -2,7 +2,7 @@
 
 **An educational app blending creative expression and mathematical exploration.**
 
-![App Icon](link-to-icon-if-available)  
+![App Icon](https://github.com/zletcher/mathart-feature-nomination/raw/main/Math-Art-Icon.png)
 *Developed by a student team at the University of San Diego*
 
 ---
